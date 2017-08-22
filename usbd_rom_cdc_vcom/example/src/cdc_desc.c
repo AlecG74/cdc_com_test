@@ -146,7 +146,7 @@ ALIGNED(4) uint8_t USB_FsConfigDescriptor[] = {
 	USB_CDC_INT_EP,						/* bEndpointAddress */
 	USB_ENDPOINT_TYPE_INTERRUPT,		/* bmAttributes */
 	WBVAL(0x0010),						/* wMaxPacketSize */
-	0x02,			/* 2ms */           /* bInterval */
+	0x04,			/* 2ms */           /* bInterval */
 
 	/* Interface 1, Alternate Setting 0, Data class interface descriptor*/
 	USB_INTERFACE_DESC_SIZE,			/* bLength */
@@ -164,14 +164,14 @@ ALIGNED(4) uint8_t USB_FsConfigDescriptor[] = {
 	USB_CDC_OUT_EP,						/* bEndpointAddress */
 	USB_ENDPOINT_TYPE_BULK,				/* bmAttributes */
 	WBVAL(USB_FS_MAX_BULK_PACKET),		/* wMaxPacketSize */
-	0x00,								/* bInterval: ignore for Bulk transfer */
+	0x02,								/* bInterval: ignore for Bulk transfer */
 	/* Endpoint, EP Bulk In */
 	USB_ENDPOINT_DESC_SIZE,				/* bLength */
 	USB_ENDPOINT_DESCRIPTOR_TYPE,		/* bDescriptorType */
 	USB_CDC_IN_EP,						/* bEndpointAddress */
 	USB_ENDPOINT_TYPE_BULK,				/* bmAttributes */
 	WBVAL(64),							/* wMaxPacketSize */
-	0x00,								/* bInterval: ignore for Bulk transfer */
+	0x02,								/* bInterval: ignore for Bulk transfer */
 	/* Terminator */
 	0									/* bLength */
 };
@@ -248,7 +248,7 @@ ALIGNED(4) uint8_t USB_HsConfigDescriptor[] = {
 	USB_CDC_INT_EP,						/* bEndpointAddress */
 	USB_ENDPOINT_TYPE_INTERRUPT,		/* bmAttributes */
 	WBVAL(0x0010),						/* wMaxPacketSize */
-	0x05,			/* 2ms */           /* bInterval */
+	0x04,			/* 2ms */           /* bInterval */
 
 	/* Interface 1, Alternate Setting 0, Data class interface descriptor*/
 	USB_INTERFACE_DESC_SIZE,			/* bLength */
@@ -266,14 +266,14 @@ ALIGNED(4) uint8_t USB_HsConfigDescriptor[] = {
 	USB_CDC_OUT_EP,						/* bEndpointAddress */
 	USB_ENDPOINT_TYPE_BULK,				/* bmAttributes */
 	WBVAL(USB_HS_MAX_BULK_PACKET),		/* wMaxPacketSize */
-	0x00,								/* bInterval: ignore for Bulk transfer */
+	0x02,								/* bInterval: ignore for Bulk transfer */
 	/* Endpoint, EP Bulk In */
 	USB_ENDPOINT_DESC_SIZE,				/* bLength */
 	USB_ENDPOINT_DESCRIPTOR_TYPE,		/* bDescriptorType */
 	USB_CDC_IN_EP,						/* bEndpointAddress */
 	USB_ENDPOINT_TYPE_BULK,				/* bmAttributes */
 	WBVAL(USB_HS_MAX_BULK_PACKET),		/* wMaxPacketSize */
-	0x00,								/* bInterval: ignore for Bulk transfer */
+	0x02,								/* bInterval: ignore for Bulk transfer */
 	/* Terminator */
 	0									/* bLength */
 };

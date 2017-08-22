@@ -114,7 +114,10 @@ static INLINE uint32_t vcom_connected(void) {
  * @param	buf_len	: Length of the buffer passed
  * @return	Number of bytes written
  */
-uint32_t vcom_write (uint8_t *pBuf, uint32_t buf_len);
+
+//uint32_t vcom_write (uint8_t *pBuf, uint32_t buf_len);
+uint32_t vcom_write(uint8_t *pBuf, uint32_t len, uint32_t index);
+void write_serial_data(uint8_t *pBuf, uint32_t len);
 
 /**
  * @}

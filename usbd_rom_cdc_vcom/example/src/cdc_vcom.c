@@ -283,7 +283,7 @@ uint32_t vcom_read_cnt(void)
 }
 
 /* Virtual com port write routine*/
-uint32_t vcom_write(uint8_t *pBuf, uint32_t len)
+/*uint32_t vcom_write(uint8_t *pBuf, uint32_t len)
 {
 	VCOM_DATA_T *pVcom = &g_vCOM;
 	uint32_t ret = 0;
@@ -291,13 +291,47 @@ uint32_t vcom_write(uint8_t *pBuf, uint32_t len)
 	if ( (pVcom->tx_flags & VCOM_TX_CONNECTED) && ((pVcom->tx_flags & VCOM_TX_BUSY) == 0) ) {
 		pVcom->tx_flags |= VCOM_TX_BUSY;
 
-		/* enter critical section */
+		//enter critical section
 		NVIC_DisableIRQ(LPC_USB_IRQ);
 		ret = USBD_API->hw->WriteEP(pVcom->hUsb, USB_CDC_IN_EP, pBuf, len);
-		/* exit critical section */
+		// exit critical section
 		NVIC_EnableIRQ(LPC_USB_IRQ);
 
 	}
 
 	return ret;
+}*/
+
+
+
+/* Virtual com port write routine*/
+uint32_t vcom_write(uint8_t *pBuf, uint32_t len, uint32_t index)
+{
+	VCOM_DATA_T *pVcom = &g_vCOM;
+	uint32_t ret = 0;
+	uint8_t *pBufIndexed = pBuf + index;
+	uint32_t lenIndexed = len-index;
+	volatile uint32_t delay;
+
+
+	if ( (pVcom->tx_flags & VCOM_TX_CONNECTED) && ((pVcom->tx_flags & VCOM_TX_BUSY) == 0) ) {
+		pVcom->tx_flags |= VCOM_TX_BUSY;
+
+		/* enter critical section */
+		NVIC_DisableIRQ(LPC_USB_IRQ);
+		ret = USBD_API->hw->WriteEP(pVcom->hUsb, USB_CDC_IN_EP, pBufIndexed, lenIndexed);
+		/* exit critical section */
+		NVIC_EnableIRQ(LPC_USB_IRQ);
+
+		delay = 1000;
+		/* Delay for 250uSec */
+		while(delay--) {}
+		//while (g_vCOM.tx_flags & VCOM_TX_BUSY);
+
+	}
+
+	return ret;
 }
+
+
+
