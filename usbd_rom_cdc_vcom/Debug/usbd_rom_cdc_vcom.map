@@ -1,0 +1,1803 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+                              ./example/src/cdc_main.o (Chip_USB0_Init)
+C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                              C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o) (Chip_Clock_GetClockInputHz)
+C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+                              ./example/src/sysinit.o (fpuInit)
+C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                              ./example/src/sysinit.o (Chip_SystemInit)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(_cr__main.o)
+                              ./example/src/cr_startup_lpc43xx.o (__main)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memcpy.o)
+                              ./example/src/cdc_vcom.o (memcpy)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memset.o)
+                              ./example/src/cdc_main.o (memset)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(_cr__main.o) (_initio)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(setvbuf.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o) (setvbuf)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o) (__Ciob)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__fillbuf.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o) (__filbuf)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_deferredlazyseek.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__fillbuf.o) (_deferredlazyseek)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_fdopen.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o) (_fdopen)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_fflush.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__fillbuf.o) (_fflush)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_writebuf.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_deferredlazyseek.o) (_Cwritebuf)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o) (_Csys_alloc)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fclose.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o) (fclose)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fflush.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fclose.o) (fflush)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fseek.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_deferredlazyseek.o) (fseek)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(ftell.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fseek.o) (ftell)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(remove.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fclose.o) (remove)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(strlen.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(remove.o) (strlen)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__init_alloc.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o) (__heaps)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_sbrk.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o) (_sbrk)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_do_fflush.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fflush.o) (_do_fflush)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(errno.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(ftell.o) (errno)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_check_heap.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_sbrk.o) (__check_heap_overflow)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp\libcr_eabihelpers.a(memcpy.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memcpy.o) (__aeabi_memcpy)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_appexit.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o) (__sys_appexit)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_close.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fclose.o) (__sys_close)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_flen.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_writebuf.o) (__sys_flen)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_istty.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_deferredlazyseek.o) (__sys_istty)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_read.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__fillbuf.o) (__sys_read)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_readc.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__fillbuf.o) (__sys_readc)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_remove.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(remove.o) (__sys_remove)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_rename.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(remove.o) (__sys_rename)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_seek.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__fillbuf.o) (__sys_seek)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_tmpnam.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fclose.o) (__sys_tmpnam)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_write.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_writebuf.o) (__sys_write)
+
+Allocating common symbols
+Common symbol       size              file
+
+g_vCOM              0x14              ./example/src/cdc_vcom.o
+SystemCoreClock     0x4               C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+g_pUsbApi           0x4               ./example/src/cdc_main.o
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_desc.o
+ .text          0x00000000        0x0 ./example/src/cdc_desc.o
+ .data          0x00000000        0x0 ./example/src/cdc_desc.o
+ .bss           0x00000000        0x0 ./example/src/cdc_desc.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_main.o
+ .text          0x00000000        0x0 ./example/src/cdc_main.o
+ .data          0x00000000        0x0 ./example/src/cdc_main.o
+ .bss           0x00000000        0x0 ./example/src/cdc_main.o
+ .debug_macro   0x00000000      0x8aa ./example/src/cdc_main.o
+ .debug_macro   0x00000000       0x10 ./example/src/cdc_main.o
+ .debug_macro   0x00000000      0x12d ./example/src/cdc_main.o
+ .debug_macro   0x00000000      0x5b2 ./example/src/cdc_main.o
+ .debug_macro   0x00000000       0x22 ./example/src/cdc_main.o
+ .debug_macro   0x00000000       0x7b ./example/src/cdc_main.o
+ .debug_macro   0x00000000       0x18 ./example/src/cdc_main.o
+ .debug_macro   0x00000000      0x26c ./example/src/cdc_main.o
+ .debug_macro   0x00000000       0x7c ./example/src/cdc_main.o
+ .debug_macro   0x00000000       0x12 ./example/src/cdc_main.o
+ .debug_macro   0x00000000       0xfa ./example/src/cdc_main.o
+ .debug_macro   0x00000000       0xee ./example/src/cdc_main.o
+ .debug_macro   0x00000000      0x69a ./example/src/cdc_main.o
+ .debug_macro   0x00000000      0x272 ./example/src/cdc_main.o
+ .debug_macro   0x00000000       0x10 ./example/src/cdc_main.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cdc_vcom.o
+ .text          0x00000000        0x0 ./example/src/cdc_vcom.o
+ .data          0x00000000        0x0 ./example/src/cdc_vcom.o
+ .bss           0x00000000        0x0 ./example/src/cdc_vcom.o
+ .text.vcom_read_req
+                0x00000000       0x64 ./example/src/cdc_vcom.o
+ .text.vcom_read_cnt
+                0x00000000       0x3c ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x8aa ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x10 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x12d ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x5b2 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x22 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x18 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x26c ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x7c ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x12 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0xfa ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0xee ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x69a ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x272 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x10 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x10 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x28 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x3b ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x2d ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x42 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0xd39 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x2bc ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x112 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x11 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x2a ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x16 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x2e6 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x82 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x13d ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x198 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x34 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x58 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x236 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x572 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x16 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x18a ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x88 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x1b9 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x1da ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x40 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x1c ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x2e ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x2e ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x22 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x201 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0xe0 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x34c ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0xdc ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0xc4 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x94 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0xb8 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x4c ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x16 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000      0x328 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x3a ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0xd0 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x22 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x40 ./example/src/cdc_vcom.o
+ .debug_macro   0x00000000       0x2e ./example/src/cdc_vcom.o
+ .group         0x00000000        0x8 ./example/src/cr_startup_lpc43xx.o
+ .text          0x00000000        0x0 ./example/src/cr_startup_lpc43xx.o
+ .data          0x00000000        0x0 ./example/src/cr_startup_lpc43xx.o
+ .bss           0x00000000        0x0 ./example/src/cr_startup_lpc43xx.o
+ .debug_macro   0x00000000      0x8aa ./example/src/cr_startup_lpc43xx.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .group         0x00000000        0x8 ./example/src/sysinit.o
+ .text          0x00000000        0x0 ./example/src/sysinit.o
+ .data          0x00000000        0x0 ./example/src/sysinit.o
+ .bss           0x00000000        0x0 ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x8aa ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x12d ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x5b2 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x7b ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x28 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x3b ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x2d ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x42 ./example/src/sysinit.o
+ .debug_macro   0x00000000      0xd39 ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x2bc ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x112 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x11 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x2a ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x2e6 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x82 ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x13d ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x198 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x34 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x58 ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x236 ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x572 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x18a ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x88 ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x1b9 ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x1da ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x40 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x1c ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x2e ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x2e ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x201 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0xe0 ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x34c ./example/src/sysinit.o
+ .debug_macro   0x00000000       0xdc ./example/src/sysinit.o
+ .debug_macro   0x00000000       0xc4 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x94 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0xb8 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x4c ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./example/src/sysinit.o
+ .debug_macro   0x00000000      0x328 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x3a ./example/src/sysinit.o
+ .debug_macro   0x00000000       0xd0 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x18 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./example/src/sysinit.o
+ .debug_macro   0x00000000       0x40 ./example/src/sysinit.o
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .text          0x00000000        0x0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .data          0x00000000        0x0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .bss           0x00000000        0x0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .text.Chip_USB1_Init
+                0x00000000       0x4c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x28 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3b C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2bc C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x112 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2a C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2e6 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x13d C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x198 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x236 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x572 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x18a C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1da C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x201 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0xe0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x34c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0xdc C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text          0x00000000        0x0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .data          0x00000000        0x0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .bss           0x00000000        0x0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_DisableMainPLL
+                0x00000000       0x20 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_TestMainPLLMultiplier
+                0x00000000       0x48 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_DisableCrystal
+                0x00000000       0x20 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_SetupMainPLLHz
+                0x00000000      0x128 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_SetupMainPLLMult
+                0x00000000       0xfc C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_SetDivider
+                0x00000000       0x88 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_GetBaseClockOpts
+                0x00000000       0x84 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_DisableBaseClock
+                0x00000000       0x40 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_IsBaseClockEnabled
+                0x00000000       0x44 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_Enable
+                0x00000000       0x60 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_RTCEnable
+                0x00000000       0x2c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_Disable
+                0x00000000       0x60 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_StartPowerDown
+                0x00000000       0x24 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_ClearPowerDown
+                0x00000000       0x24 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_GetEMCRate
+                0x00000000       0x48 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_DisablePLL
+                0x00000000       0x38 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x89e C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x28 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3b C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2bc C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x112 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2a C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2e6 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x13d C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x198 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x236 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x572 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x18a C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1da C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x201 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0xe0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x34c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0xdc C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .text          0x00000000        0x0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .data          0x00000000        0x0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .bss           0x00000000        0x0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000      0x89e C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x10 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x10 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000      0x12d C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x22 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x7b C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x28 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x3b C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x2d C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x42 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .text          0x00000000        0x0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .data          0x00000000        0x0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .bss           0x00000000        0x0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .text.Chip_SetupXtalClocking
+                0x00000000       0x18 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x89e C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x28 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3b C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2bc C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x112 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2a C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2e6 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x13d C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x198 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x236 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x572 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x18a C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1da C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x201 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0xe0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x34c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0xdc C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(_cr__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(_cr__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(_cr__main.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memset.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memset.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memset.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o)
+ .text._terminateio
+                0x00000000       0x44 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(setvbuf.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(setvbuf.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(setvbuf.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+ .text.getc     0x00000000       0x18 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+ .text.fgetc    0x00000000        0x4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+ .text.getchar  0x00000000       0x20 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+ .text.putc     0x00000000       0x28 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+ .text.fputc    0x00000000        0x4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+ .text.putchar  0x00000000       0x24 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+ .text.feof     0x00000000        0x8 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+ .text.ferror   0x00000000        0x8 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+ .text.clearerr
+                0x00000000        0xe c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__fillbuf.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__fillbuf.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__fillbuf.o)
+ .text._Csys_read_
+                0x00000000       0x22 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__fillbuf.o)
+ .text.__filbuf
+                0x00000000      0x178 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__fillbuf.o)
+ .text._fillb2  0x00000000       0x1c c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__fillbuf.o)
+ .comment       0x00000000       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__fillbuf.o)
+ .ARM.attributes
+                0x00000000       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__fillbuf.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_deferredlazyseek.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_deferredlazyseek.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_deferredlazyseek.o)
+ .text.__flsbuf
+                0x00000000      0x140 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_deferredlazyseek.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_fdopen.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_fdopen.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_fdopen.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_fflush.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_fflush.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_fflush.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_writebuf.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_writebuf.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_writebuf.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o)
+ .text.calloc   0x00000000       0x50 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o)
+ .text.realloc  0x00000000       0x24 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fclose.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fclose.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fclose.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fflush.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fflush.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fflush.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fseek.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fseek.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fseek.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(ftell.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(ftell.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(ftell.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(remove.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(remove.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(remove.o)
+ .text.rename   0x00000000       0x28 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(remove.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(strlen.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(strlen.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(strlen.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__init_alloc.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__init_alloc.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__init_alloc.o)
+ .text._init_alloc
+                0x00000000       0x14 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__init_alloc.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_sbrk.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_sbrk.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_sbrk.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_do_fflush.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_do_fflush.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_do_fflush.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(errno.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(errno.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(errno.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_check_heap.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_check_heap.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_check_heap.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp\libcr_eabihelpers.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp\libcr_eabihelpers.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x00000000       0x1c c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x00000000        0x8 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x00000000        0xa c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp\libcr_eabihelpers.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_appexit.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_appexit.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_appexit.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_close.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_close.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_close.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_flen.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_flen.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_flen.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_istty.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_istty.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_istty.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_read.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_read.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_read.o)
+ .text.__sys_read
+                0x00000000        0x4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_read.o)
+ .comment       0x00000000       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_read.o)
+ .ARM.attributes
+                0x00000000       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_read.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_readc.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_readc.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_readc.o)
+ .text.__sys_readc
+                0x00000000        0x6 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_readc.o)
+ .comment       0x00000000       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_readc.o)
+ .ARM.attributes
+                0x00000000       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_readc.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_remove.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_remove.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_remove.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_rename.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_rename.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_rename.o)
+ .text.__sys_rename
+                0x00000000        0x6 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_rename.o)
+ .comment       0x00000000       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_rename.o)
+ .ARM.attributes
+                0x00000000       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_rename.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_seek.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_seek.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_seek.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_tmpnam.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_tmpnam.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_tmpnam.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_write.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_write.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_write.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RamLoc128        0x10000000         0x00020000         xrw
+RamLoc72         0x10080000         0x00012000         xrw
+RamAHB32         0x20000000         0x00008000         xrw
+RamAHB16         0x20008000         0x00004000         xrw
+RamAHB_ETB16     0x2000c000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./example/src/cdc_desc.o
+LOAD ./example/src/cdc_main.o
+LOAD ./example/src/cdc_vcom.o
+LOAD ./example/src/cr_startup_lpc43xx.o
+LOAD ./example/src/sysinit.o
+LOAD C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a
+LOAD c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a
+LOAD c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp\libcr_eabihelpers.a
+END GROUP
+                0x10000000                __base_RamLoc128 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10020000                __top_RamLoc128 = 0x10020000
+                0x10020000                __top_RAM = 0x10020000
+                0x10080000                __base_RamLoc72 = 0x10080000
+                0x10080000                __base_RAM2 = 0x10080000
+                0x10092000                __top_RamLoc72 = 0x10092000
+                0x10092000                __top_RAM2 = 0x10092000
+                0x20000000                __base_RamAHB32 = 0x20000000
+                0x20000000                __base_RAM3 = 0x20000000
+                0x20008000                __top_RamAHB32 = 0x20008000
+                0x20008000                __top_RAM3 = 0x20008000
+                0x20008000                __base_RamAHB16 = 0x20008000
+                0x20008000                __base_RAM4 = 0x20008000
+                0x2000c000                __top_RamAHB16 = 0x2000c000
+                0x2000c000                __top_RAM4 = 0x2000c000
+                0x2000c000                __base_RamAHB_ETB16 = 0x2000c000
+                0x2000c000                __base_RAM5 = 0x2000c000
+                0x20010000                __top_RamAHB_ETB16 = 0x20010000
+                0x20010000                __top_RAM5 = 0x20010000
+
+.text           0x10000000     0x21b0
+ FILL mask 0xff
+                0x10000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x10000000      0x114 ./example/src/cr_startup_lpc43xx.o
+                0x10000000                g_pfnVectors
+                0x10000114                . = ALIGN (0x4)
+                0x10000114                __section_table_start = .
+                0x10000114                __data_section_table = .
+                0x10000114        0x4 LONG 0x100021b0 LOADADDR (.data)
+                0x10000118        0x4 LONG 0x100021b0 ADDR (.data)
+                0x1000011c        0x4 LONG 0x98 SIZEOF (.data)
+                0x10000120        0x4 LONG 0x100021b0 LOADADDR (.data_RAM2)
+                0x10000124        0x4 LONG 0x10080000 ADDR (.data_RAM2)
+                0x10000128        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x1000012c        0x4 LONG 0x100021b0 LOADADDR (.data_RAM3)
+                0x10000130        0x4 LONG 0x20000000 ADDR (.data_RAM3)
+                0x10000134        0x4 LONG 0x0 SIZEOF (.data_RAM3)
+                0x10000138        0x4 LONG 0x100021b0 LOADADDR (.data_RAM4)
+                0x1000013c        0x4 LONG 0x20008000 ADDR (.data_RAM4)
+                0x10000140        0x4 LONG 0x0 SIZEOF (.data_RAM4)
+                0x10000144        0x4 LONG 0x100021b0 LOADADDR (.data_RAM5)
+                0x10000148        0x4 LONG 0x2000c000 ADDR (.data_RAM5)
+                0x1000014c        0x4 LONG 0x0 SIZEOF (.data_RAM5)
+                0x10000150                __data_section_table_end = .
+                0x10000150                __bss_section_table = .
+                0x10000150        0x4 LONG 0x10002248 ADDR (.bss)
+                0x10000154        0x4 LONG 0x284 SIZEOF (.bss)
+                0x10000158        0x4 LONG 0x10080000 ADDR (.bss_RAM2)
+                0x1000015c        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x10000160        0x4 LONG 0x20000000 ADDR (.bss_RAM3)
+                0x10000164        0x4 LONG 0x0 SIZEOF (.bss_RAM3)
+                0x10000168        0x4 LONG 0x20008000 ADDR (.bss_RAM4)
+                0x1000016c        0x4 LONG 0x0 SIZEOF (.bss_RAM4)
+                0x10000170        0x4 LONG 0x2000c000 ADDR (.bss_RAM5)
+                0x10000174        0x4 LONG 0x0 SIZEOF (.bss_RAM5)
+                0x10000178                __bss_section_table_end = .
+                0x10000178                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x10000178       0xcc ./example/src/cr_startup_lpc43xx.o
+                0x10000178                data_init
+                0x100001bc                bss_init
+                0x100001f4                NMI_Handler
+                0x100001fc                HardFault_Handler
+                0x10000204                MemManage_Handler
+                0x1000020c                BusFault_Handler
+                0x10000214                UsageFault_Handler
+                0x1000021c                SVC_Handler
+                0x10000224                DebugMon_Handler
+                0x1000022c                PendSV_Handler
+                0x10000234                SysTick_Handler
+                0x1000023c                ATIMER_IRQHandler
+                0x1000023c                I2C1_IRQHandler
+                0x1000023c                UART1_IRQHandler
+                0x1000023c                GPIO5_IRQHandler
+                0x1000023c                CAN1_IRQHandler
+                0x1000023c                USB1_IRQHandler
+                0x1000023c                I2S0_IRQHandler
+                0x1000023c                TIMER3_IRQHandler
+                0x1000023c                UART0_IRQHandler
+                0x1000023c                I2C0_IRQHandler
+                0x1000023c                SGPIO_IRQHandler
+                0x1000023c                FLASH_EEPROM_IRQHandler
+                0x1000023c                ADCHS_IRQHandler
+                0x1000023c                GPIO6_IRQHandler
+                0x1000023c                IntDefaultHandler
+                0x1000023c                GPIO1_IRQHandler
+                0x1000023c                SSP0_IRQHandler
+                0x1000023c                ADC1_IRQHandler
+                0x1000023c                RTC_IRQHandler
+                0x1000023c                TIMER0_IRQHandler
+                0x1000023c                SPI_IRQHandler
+                0x1000023c                LCD_IRQHandler
+                0x1000023c                RIT_IRQHandler
+                0x1000023c                TIMER1_IRQHandler
+                0x1000023c                UART2_IRQHandler
+                0x1000023c                GPIO2_IRQHandler
+                0x1000023c                I2S1_IRQHandler
+                0x1000023c                SSP1_IRQHandler
+                0x1000023c                GPIO3_IRQHandler
+                0x1000023c                SCT_IRQHandler
+                0x1000023c                SDIO_IRQHandler
+                0x1000023c                WDT_IRQHandler
+                0x1000023c                ADC0_IRQHandler
+                0x1000023c                GPIO7_IRQHandler
+                0x1000023c                SPIFI_IRQHandler
+                0x1000023c                QEI_IRQHandler
+                0x1000023c                ETH_IRQHandler
+                0x1000023c                CAN0_IRQHandler
+                0x1000023c                GINT0_IRQHandler
+                0x1000023c                DAC_IRQHandler
+                0x1000023c                M0SUB_IRQHandler
+                0x1000023c                GPIO0_IRQHandler
+                0x1000023c                DMA_IRQHandler
+                0x1000023c                EVRT_IRQHandler
+                0x1000023c                TIMER2_IRQHandler
+                0x1000023c                UART3_IRQHandler
+                0x1000023c                MCPWM_IRQHandler
+                0x1000023c                M0APP_IRQHandler
+                0x1000023c                GINT1_IRQHandler
+                0x1000023c                GPIO4_IRQHandler
+ *(.text*)
+ .text.NVIC_EnableIRQ
+                0x10000244       0x34 ./example/src/cdc_main.o
+ .text.vcom_connected
+                0x10000278       0x1c ./example/src/cdc_main.o
+ .text.EP0_patch
+                0x10000294       0x54 ./example/src/cdc_main.o
+                0x10000294                EP0_patch
+ .text.USB0_IRQHandler
+                0x100002e8       0x20 ./example/src/cdc_main.o
+                0x100002e8                USB0_IRQHandler
+ .text.find_IntfDesc
+                0x10000308       0x60 ./example/src/cdc_main.o
+                0x10000308                find_IntfDesc
+ .text.main     0x10000368      0x270 ./example/src/cdc_main.o
+                0x10000368                main
+ .text.NVIC_EnableIRQ
+                0x100005d8       0x34 ./example/src/cdc_vcom.o
+ .text.NVIC_DisableIRQ
+                0x1000060c       0x34 ./example/src/cdc_vcom.o
+ .text.VCOM_bulk_in_hdlr
+                0x10000640       0x34 ./example/src/cdc_vcom.o
+ .text.VCOM_bulk_out_hdlr
+                0x10000674       0xe8 ./example/src/cdc_vcom.o
+ .text.VCOM_SetLineCode
+                0x1000075c       0x28 ./example/src/cdc_vcom.o
+ .text.CDC_ep0_override_hdlr
+                0x10000784      0x104 ./example/src/cdc_vcom.o
+ .text.vcom_init
+                0x10000888      0x13c ./example/src/cdc_vcom.o
+                0x10000888                vcom_init
+ .text.vcom_bread
+                0x100009c4       0x8c ./example/src/cdc_vcom.o
+                0x100009c4                vcom_bread
+ .text.vcom_write
+                0x10000a50       0x74 ./example/src/cdc_vcom.o
+                0x10000a50                vcom_write
+ .text.ResetISR
+                0x10000ac4       0xc4 ./example/src/cr_startup_lpc43xx.o
+                0x10000ac4                ResetISR
+ .text.SystemInit
+                0x10000b88       0x28 ./example/src/sysinit.o
+                0x10000b88                SystemInit
+ .text.Chip_CREG_EnableUSB0Phy
+                0x10000bb0       0x20 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .text.Chip_USB_PllSetup
+                0x10000bd0       0x44 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .text.Chip_USB0_Init
+                0x10000c14       0x30 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+                0x10000c14                Chip_USB0_Init
+ .text.SystemCoreClockUpdate
+                0x10000c44       0x18 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+                0x10000c44                SystemCoreClockUpdate
+ .text.ABS      0x10000c5c       0x24 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.pll_calc_divs
+                0x10000c80      0x124 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.pll_get_frac
+                0x10000da4      0x178 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_GetDivRate
+                0x10000f1c       0x40 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_FindBaseClock
+                0x10000f5c       0x90 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_EnableCrystal
+                0x10000fec       0x70 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x10000fec                Chip_Clock_EnableCrystal
+ .text.Chip_Clock_CalcMainPLLValue
+                0x1000105c       0xd8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1000105c                Chip_Clock_CalcMainPLLValue
+ .text.Chip_Clock_GetMainPLLHz
+                0x10001134       0xc0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x10001134                Chip_Clock_GetMainPLLHz
+ .text.Chip_Clock_GetDividerSource
+                0x100011f4       0x40 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x100011f4                Chip_Clock_GetDividerSource
+ .text.Chip_Clock_GetDividerDivisor
+                0x10001234       0x38 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x10001234                Chip_Clock_GetDividerDivisor
+ .text.Chip_Clock_GetClockInputHz
+                0x1000126c      0x140 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1000126c                Chip_Clock_GetClockInputHz
+ .text.Chip_Clock_GetBaseClocktHz
+                0x100013ac       0x24 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x100013ac                Chip_Clock_GetBaseClocktHz
+ .text.Chip_Clock_SetBaseClock
+                0x100013d0       0x9c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x100013d0                Chip_Clock_SetBaseClock
+ .text.Chip_Clock_EnableBaseClock
+                0x1000146c       0x40 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1000146c                Chip_Clock_EnableBaseClock
+ .text.Chip_Clock_GetBaseClock
+                0x100014ac       0x4c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x100014ac                Chip_Clock_GetBaseClock
+ .text.Chip_Clock_EnableOpts
+                0x100014f8       0x7c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x100014f8                Chip_Clock_EnableOpts
+ .text.Chip_Clock_GetRate
+                0x10001574       0x88 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x10001574                Chip_Clock_GetRate
+ .text.Chip_Clock_SetupPLL
+                0x100015fc       0x7c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x100015fc                Chip_Clock_SetupPLL
+ .text.Chip_Clock_EnablePLL
+                0x10001678       0x38 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x10001678                Chip_Clock_EnablePLL
+ .text.Chip_Clock_GetPLLStatus
+                0x100016b0       0x28 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x100016b0                Chip_Clock_GetPLLStatus
+ .text.fpuInit  0x100016d8       0x74 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+                0x100016d8                fpuInit
+ .text.Chip_Clock_DisableMainPLL
+                0x1000174c       0x20 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .text.Chip_Clock_SetupMainPLL
+                0x1000176c       0x44 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .text.Chip_Clock_MainPLLLocked
+                0x100017b0       0x24 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .text.Chip_SetupCoreClock
+                0x100017d4      0x15c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                0x100017d4                Chip_SetupCoreClock
+ .text.Chip_SetupIrcClocking
+                0x10001930       0x18 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                0x10001930                Chip_SetupIrcClocking
+ .text.Chip_SystemInit
+                0x10001948        0xc C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                0x10001948                Chip_SystemInit
+ .text.__main   0x10001954       0x14 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(_cr__main.o)
+                0x10001954                __main
+ .text.memcpy   0x10001968        0x4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memcpy.o)
+                0x10001968                memcpy
+ .text.memset   0x1000196c        0x4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memset.o)
+                0x1000196c                memset
+ .text._initio  0x10001970       0xa4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o)
+                0x10001970                _initio
+ .text.setvbuf  0x10001a14       0x40 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(setvbuf.o)
+                0x10001a14                setvbuf
+ .text._deferredlazyseek
+                0x10001a54       0x44 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_deferredlazyseek.o)
+                0x10001a54                _deferredlazyseek
+ .text._fdopen  0x10001a98       0x6a c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_fdopen.o)
+                0x10001a98                _fdopen
+ .text._fflush  0x10001b02       0x58 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_fflush.o)
+                0x10001b02                _fflush
+ *fill*         0x10001b5a        0x2 ff
+ .text._Cwritebuf
+                0x10001b5c       0x68 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_writebuf.o)
+                0x10001b5c                _Cwritebuf
+ .text.malloc   0x10001bc4       0xc8 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o)
+                0x10001bc4                malloc
+ .text.free     0x10001c8c       0x30 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o)
+                0x10001c8c                free
+ .text._Csys_alloc
+                0x10001cbc       0x20 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o)
+                0x10001cbc                _Csys_alloc
+ .text.fclose   0x10001cdc       0x6c c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fclose.o)
+                0x10001cdc                fclose
+ .text.fflush   0x10001d48       0x30 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fflush.o)
+                0x10001d48                fflush
+ .text.fseek    0x10001d78      0x110 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fseek.o)
+                0x10001d78                fseek
+ .text.ftell    0x10001e88       0x4c c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(ftell.o)
+                0x10001e88                ftell
+ .text.remove   0x10001ed4       0x14 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(remove.o)
+                0x10001ed4                remove
+ .text.strlen   0x10001ee8       0x4a c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(strlen.o)
+                0x10001ee8                strlen
+ *fill*         0x10001f32        0x2 ff
+ .text._sbrk    0x10001f34       0x40 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_sbrk.o)
+                0x10001f34                _sbrk
+ .text._do_fflush
+                0x10001f74       0x44 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_do_fflush.o)
+                0x10001f74                _do_fflush
+ .text.__check_heap_overflow
+                0x10001fb8       0x18 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_check_heap.o)
+                0x10001fb8                __check_heap_overflow
+ .text.__aeabi_memcpy
+                0x10001fd0       0x34 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp\libcr_eabihelpers.a(memcpy.o)
+                0x10001fd0                __aeabi_memcpy
+                0x10001fda                __aeabi_memcpy8
+                0x10001fda                __aeabi_memcpy4
+ .text.__aeabi_memset_lowlevel
+                0x10002004       0x32 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp\libcr_eabihelpers.a(memcpy.o)
+                0x10002004                __aeabi_lowlevel_memset
+ .text.__sys_appexit
+                0x10002036        0x2 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_appexit.o)
+                0x10002036                __sys_appexit
+                0x10002036                __exit
+ .text.__sys_close
+                0x10002038        0x6 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_close.o)
+                0x10002038                __sys_close
+ .text.__sys_flen
+                0x1000203e        0x6 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_flen.o)
+                0x1000203e                __sys_flen
+ .text.__sys_istty
+                0x10002044        0x6 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_istty.o)
+                0x10002044                __sys_istty
+ .text.__sys_remove
+                0x1000204a        0x6 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_remove.o)
+                0x1000204a                __sys_remove
+ .text.__sys_seek
+                0x10002050        0x6 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_seek.o)
+                0x10002050                __sys_seek
+ .text.__sys_tmpnam
+                0x10002056        0x6 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_tmpnam.o)
+                0x10002056                __sys_tmpnam
+ .text.__sys_write
+                0x1000205c        0x4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_write.o)
+                0x1000205c                __sys_write
+                0x1000205c                __write
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.USB_DeviceDescriptor
+                0x10002060       0x12 ./example/src/cdc_desc.o
+                0x10002060                USB_DeviceDescriptor
+ *fill*         0x10002072        0x2 ff
+ .rodata.USB_DeviceQualifier
+                0x10002074        0xa ./example/src/cdc_desc.o
+                0x10002074                USB_DeviceQualifier
+ *fill*         0x1000207e        0x2 ff
+ .rodata.USB_StringDescriptor
+                0x10002080       0x38 ./example/src/cdc_desc.o
+                0x10002080                USB_StringDescriptor
+ .rodata.ExtRateIn
+                0x100020b8        0x4 ./example/src/sysinit.o
+                0x100020b8                ExtRateIn
+ .rodata.OscRateIn
+                0x100020bc        0x4 ./example/src/sysinit.o
+                0x100020bc                OscRateIn
+ .rodata.usbPLLSetup
+                0x100020c0       0x14 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .rodata.periph_to_base
+                0x100020d4       0x6c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .rodata        0x10002140        0xa C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ *fill*         0x1000214a        0x2 ff
+ .rodata.InitClkStates
+                0x1000214c       0x48 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .rodata.str1.1
+                0x10002194        0x4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o)
+ .rodata.str1.1
+                0x10002198       0x18 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o)
+                0x100021b0                . = ALIGN (0x4)
+
+.glue_7         0x100021b0        0x0
+ .glue_7        0x100021b0        0x0 linker stubs
+
+.glue_7t        0x100021b0        0x0
+ .glue_7t       0x100021b0        0x0 linker stubs
+
+.vfp11_veneer   0x100021b0        0x0
+ .vfp11_veneer  0x100021b0        0x0 linker stubs
+
+.v4_bx          0x100021b0        0x0
+ .v4_bx         0x100021b0        0x0 linker stubs
+
+.iplt           0x100021b0        0x0
+ .iplt          0x100021b0        0x0 ./example/src/cdc_desc.o
+
+.rel.dyn        0x100021b0        0x0
+ .rel.iplt      0x100021b0        0x0 ./example/src/cdc_desc.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x100021b0                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x100021b0                __exidx_end = .
+                0x100021b0                _etext = .
+
+.data_RAM2      0x10080000        0x0 load address 0x100021b0
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamLoc72)
+ *(.data.$RAM2*)
+ *(.data.$RamLoc72*)
+                0x10080000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM2, .)
+
+.data_RAM3      0x20000000        0x0 load address 0x100021b0
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM3, .)
+ *(.ramfunc.$RAM3)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM3*)
+ *(.data.$RamAHB32*)
+                0x20000000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM3, .)
+
+.data_RAM4      0x20008000        0x0 load address 0x100021b0
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM4, .)
+ *(.ramfunc.$RAM4)
+ *(.ramfunc.$RamAHB16)
+ *(.data.$RAM4*)
+ *(.data.$RamAHB16*)
+                0x20008000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM4, .)
+
+.data_RAM5      0x2000c000        0x0 load address 0x100021b0
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM5, .)
+ *(.ramfunc.$RAM5)
+ *(.ramfunc.$RamAHB_ETB16)
+ *(.data.$RAM5*)
+ *(.data.$RamAHB_ETB16*)
+                0x2000c000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM5, .)
+
+.uninit_RESERVED
+                0x100021b0        0x0
+ *(.bss.$RESERVED*)
+                0x100021b0                . = ALIGN (0x4)
+                0x100021b0                _end_uninit_RESERVED = .
+
+.data           0x100021b0       0x98
+ FILL mask 0xff
+                0x100021b0                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.USB_FsConfigDescriptor
+                0x100021b0       0x4c ./example/src/cdc_desc.o
+                0x100021b0                USB_FsConfigDescriptor
+ .data.USB_HsConfigDescriptor
+                0x100021fc       0x4c ./example/src/cdc_desc.o
+                0x100021fc                USB_HsConfigDescriptor
+                0x10002248                . = ALIGN (0x4)
+                0x10002248                _edata = .
+
+.igot.plt       0x10002248        0x0
+ .igot.plt      0x10002248        0x0 ./example/src/cdc_desc.o
+
+.bss_RAM2       0x10080000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamLoc72*)
+                0x10080000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM2, .)
+
+.bss_RAM3       0x20000000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM3, .)
+ *(.bss.$RAM3*)
+ *(.bss.$RamAHB32*)
+                0x20000000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM3, .)
+
+.bss_RAM4       0x20008000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM4, .)
+ *(.bss.$RAM4*)
+ *(.bss.$RamAHB16*)
+                0x20008000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM4, .)
+
+.bss_RAM5       0x2000c000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM5, .)
+ *(.bss.$RAM5*)
+ *(.bss.$RamAHB_ETB16*)
+                0x2000c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM5, .)
+
+.bss            0x10002248      0x284
+                0x10002248                _bss = .
+ *(.bss*)
+ .bss.g_hUsb    0x10002248        0x4 ./example/src/cdc_main.o
+ .bss.g_rxBuff  0x1000224c      0x100 ./example/src/cdc_main.o
+ .bss.g_ep0RxBusy
+                0x1000234c        0x4 ./example/src/cdc_main.o
+ .bss.g_Ep0BaseHdlr
+                0x10002350        0x4 ./example/src/cdc_main.o
+ .bss.g_defaultCdcHdlr
+                0x10002354        0x4 ./example/src/cdc_vcom.o
+ .bss.audio_usb_pll_freq
+                0x10002358        0x8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .bss._extra    0x10002360        0x4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o)
+                0x10002360                _extra
+ .bss.__Ciob    0x10002364      0x140 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+                0x10002364                __Ciob
+ .bss.__heaps   0x100024a4        0x4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__init_alloc.o)
+                0x100024a4                __heaps
+ .bss.__end_of_heap
+                0x100024a8        0x4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__init_alloc.o)
+                0x100024a8                __end_of_heap
+ .bss.errno     0x100024ac        0x4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(errno.o)
+                0x100024ac                errno
+ *(COMMON)
+ COMMON         0x100024b0        0x4 ./example/src/cdc_main.o
+                0x100024b0                g_pUsbApi
+ COMMON         0x100024b4       0x14 ./example/src/cdc_vcom.o
+                0x100024b4                g_vCOM
+ COMMON         0x100024c8        0x4 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+                0x100024c8                SystemCoreClock
+                0x100024cc                . = ALIGN (0x4)
+                0x100024cc                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit_RAM2    0x10080000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamLoc72*)
+                0x10080000                . = ALIGN (0x4)
+
+.noinit_RAM3    0x20000000        0x0
+ *(.noinit.$RAM3*)
+ *(.noinit.$RamAHB32*)
+                0x20000000                . = ALIGN (0x4)
+
+.noinit_RAM4    0x20008000        0x0
+ *(.noinit.$RAM4*)
+ *(.noinit.$RamAHB16*)
+                0x20008000                . = ALIGN (0x4)
+
+.noinit_RAM5    0x2000c000        0x0
+ *(.noinit.$RAM5*)
+ *(.noinit.$RamAHB_ETB16*)
+                0x2000c000                . = ALIGN (0x4)
+
+.noinit         0x100024cc        0x0
+                0x100024cc                _noinit = .
+ *(.noinit*)
+                0x100024cc                . = ALIGN (0x4)
+                0x100024cc                _end_noinit = .
+                0x100024cc                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10020000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc128 - 0x0))
+                [!provide]                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+OUTPUT(usbd_rom_cdc_vcom.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x8249
+ .debug_info    0x00000000      0x12b ./example/src/cdc_desc.o
+ .debug_info    0x0000012b     0x27cd ./example/src/cdc_main.o
+ .debug_info    0x000028f8     0x271a ./example/src/cdc_vcom.o
+ .debug_info    0x00005012      0x297 ./example/src/cr_startup_lpc43xx.o
+ .debug_info    0x000052a9      0x5ba ./example/src/sysinit.o
+ .debug_info    0x00005863      0xa31 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_info    0x00006294     0x1590 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_info    0x00007824      0x128 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_info    0x0000794c      0x8fd C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+
+.debug_abbrev   0x00000000      0xe77
+ .debug_abbrev  0x00000000       0x71 ./example/src/cdc_desc.o
+ .debug_abbrev  0x00000071      0x2f6 ./example/src/cdc_main.o
+ .debug_abbrev  0x00000367      0x30b ./example/src/cdc_vcom.o
+ .debug_abbrev  0x00000672       0xed ./example/src/cr_startup_lpc43xx.o
+ .debug_abbrev  0x0000075f       0xe6 ./example/src/sysinit.o
+ .debug_abbrev  0x00000845      0x155 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_abbrev  0x0000099a      0x2cb C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_abbrev  0x00000c65       0x84 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_abbrev  0x00000ce9      0x18e C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+
+.debug_aranges  0x00000000      0x358
+ .debug_aranges
+                0x00000000       0x18 ./example/src/cdc_desc.o
+ .debug_aranges
+                0x00000018       0x48 ./example/src/cdc_main.o
+ .debug_aranges
+                0x00000060       0x70 ./example/src/cdc_vcom.o
+ .debug_aranges
+                0x000000d0       0x80 ./example/src/cr_startup_lpc43xx.o
+ .debug_aranges
+                0x00000150       0x20 ./example/src/sysinit.o
+ .debug_aranges
+                0x00000170       0x40 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_aranges
+                0x000001b0      0x138 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_aranges
+                0x000002e8       0x20 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_aranges
+                0x00000308       0x50 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+
+.debug_macro    0x00000000     0x7204
+ .debug_macro   0x00000000       0xf5 ./example/src/cdc_desc.o
+ .debug_macro   0x000000f5      0x8aa ./example/src/cdc_desc.o
+ .debug_macro   0x0000099f       0x10 ./example/src/cdc_desc.o
+ .debug_macro   0x000009af      0x12d ./example/src/cdc_desc.o
+ .debug_macro   0x00000adc      0x5b2 ./example/src/cdc_desc.o
+ .debug_macro   0x0000108e       0x22 ./example/src/cdc_desc.o
+ .debug_macro   0x000010b0       0x7b ./example/src/cdc_desc.o
+ .debug_macro   0x0000112b       0x18 ./example/src/cdc_desc.o
+ .debug_macro   0x00001143      0x26c ./example/src/cdc_desc.o
+ .debug_macro   0x000013af       0x7c ./example/src/cdc_desc.o
+ .debug_macro   0x0000142b       0x12 ./example/src/cdc_desc.o
+ .debug_macro   0x0000143d       0xfa ./example/src/cdc_desc.o
+ .debug_macro   0x00001537       0xee ./example/src/cdc_desc.o
+ .debug_macro   0x00001625      0x69a ./example/src/cdc_desc.o
+ .debug_macro   0x00001cbf      0x272 ./example/src/cdc_desc.o
+ .debug_macro   0x00001f31       0x10 ./example/src/cdc_desc.o
+ .debug_macro   0x00001f41      0x3ae ./example/src/cdc_main.o
+ .debug_macro   0x000022ef       0x10 ./example/src/cdc_main.o
+ .debug_macro   0x000022ff       0x28 ./example/src/cdc_main.o
+ .debug_macro   0x00002327       0x3b ./example/src/cdc_main.o
+ .debug_macro   0x00002362       0x2d ./example/src/cdc_main.o
+ .debug_macro   0x0000238f       0x42 ./example/src/cdc_main.o
+ .debug_macro   0x000023d1      0xd39 ./example/src/cdc_main.o
+ .debug_macro   0x0000310a      0x2bc ./example/src/cdc_main.o
+ .debug_macro   0x000033c6      0x112 ./example/src/cdc_main.o
+ .debug_macro   0x000034d8       0x11 ./example/src/cdc_main.o
+ .debug_macro   0x000034e9       0x2a ./example/src/cdc_main.o
+ .debug_macro   0x00003513       0x16 ./example/src/cdc_main.o
+ .debug_macro   0x00003529      0x2e6 ./example/src/cdc_main.o
+ .debug_macro   0x0000380f       0x82 ./example/src/cdc_main.o
+ .debug_macro   0x00003891      0x13d ./example/src/cdc_main.o
+ .debug_macro   0x000039ce      0x198 ./example/src/cdc_main.o
+ .debug_macro   0x00003b66       0x34 ./example/src/cdc_main.o
+ .debug_macro   0x00003b9a       0x58 ./example/src/cdc_main.o
+ .debug_macro   0x00003bf2      0x236 ./example/src/cdc_main.o
+ .debug_macro   0x00003e28      0x572 ./example/src/cdc_main.o
+ .debug_macro   0x0000439a       0x16 ./example/src/cdc_main.o
+ .debug_macro   0x000043b0      0x18a ./example/src/cdc_main.o
+ .debug_macro   0x0000453a       0x88 ./example/src/cdc_main.o
+ .debug_macro   0x000045c2      0x1b9 ./example/src/cdc_main.o
+ .debug_macro   0x0000477b      0x1da ./example/src/cdc_main.o
+ .debug_macro   0x00004955       0x40 ./example/src/cdc_main.o
+ .debug_macro   0x00004995       0x1c ./example/src/cdc_main.o
+ .debug_macro   0x000049b1       0x2e ./example/src/cdc_main.o
+ .debug_macro   0x000049df       0x2e ./example/src/cdc_main.o
+ .debug_macro   0x00004a0d       0x22 ./example/src/cdc_main.o
+ .debug_macro   0x00004a2f      0x201 ./example/src/cdc_main.o
+ .debug_macro   0x00004c30       0xe0 ./example/src/cdc_main.o
+ .debug_macro   0x00004d10      0x34c ./example/src/cdc_main.o
+ .debug_macro   0x0000505c       0xdc ./example/src/cdc_main.o
+ .debug_macro   0x00005138       0xc4 ./example/src/cdc_main.o
+ .debug_macro   0x000051fc       0x94 ./example/src/cdc_main.o
+ .debug_macro   0x00005290       0xb8 ./example/src/cdc_main.o
+ .debug_macro   0x00005348       0x4c ./example/src/cdc_main.o
+ .debug_macro   0x00005394       0x16 ./example/src/cdc_main.o
+ .debug_macro   0x000053aa      0x328 ./example/src/cdc_main.o
+ .debug_macro   0x000056d2       0x3a ./example/src/cdc_main.o
+ .debug_macro   0x0000570c       0xd0 ./example/src/cdc_main.o
+ .debug_macro   0x000057dc       0x22 ./example/src/cdc_main.o
+ .debug_macro   0x000057fe       0x40 ./example/src/cdc_main.o
+ .debug_macro   0x0000583e       0x9a ./example/src/cdc_main.o
+ .debug_macro   0x000058d8       0x2e ./example/src/cdc_main.o
+ .debug_macro   0x00005906      0x3a1 ./example/src/cdc_vcom.o
+ .debug_macro   0x00005ca7       0x74 ./example/src/cdc_vcom.o
+ .debug_macro   0x00005d1b       0x1d ./example/src/cr_startup_lpc43xx.o
+ .debug_macro   0x00005d38      0x2da ./example/src/sysinit.o
+ .debug_macro   0x00006012      0x2da C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x000062ec      0x89e C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00006b8a      0x2e0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00006e6a       0xc0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00006f2a      0x2da C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+
+.debug_line     0x00000000     0x343f
+ .debug_line    0x00000000      0x2cc ./example/src/cdc_desc.o
+ .debug_line    0x000002cc      0x87d ./example/src/cdc_main.o
+ .debug_line    0x00000b49      0x8c4 ./example/src/cdc_vcom.o
+ .debug_line    0x0000140d      0x102 ./example/src/cr_startup_lpc43xx.o
+ .debug_line    0x0000150f      0x5e9 ./example/src/sysinit.o
+ .debug_line    0x00001af8      0x64c C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_line    0x00002144      0xa49 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_line    0x00002b8d      0x1f8 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_line    0x00002d85      0x6ba C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+
+.debug_str      0x00000000    0x1caaa
+ .debug_str     0x00000000     0x7d0b ./example/src/cdc_desc.o
+                               0x7d9c (size before relaxing)
+ .debug_str     0x00007d0b    0x13f09 ./example/src/cdc_main.o
+                              0x1be68 (size before relaxing)
+ .debug_str     0x0001bc14      0x19f ./example/src/cdc_vcom.o
+                              0x1b980 (size before relaxing)
+ .debug_str     0x0001bdb3      0x1e6 ./example/src/cr_startup_lpc43xx.o
+                               0x2773 (size before relaxing)
+ .debug_str     0x0001bf99       0x37 ./example/src/sysinit.o
+                              0x15b38 (size before relaxing)
+ .debug_str     0x0001bfd0      0x31f C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+                              0x15df4 (size before relaxing)
+ .debug_str     0x0001c2ef      0x61f C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                              0x16377 (size before relaxing)
+ .debug_str     0x0001c90e       0xb5 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+                               0x995d (size before relaxing)
+ .debug_str     0x0001c9c3       0xe7 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                              0x15dc3 (size before relaxing)
+
+.comment        0x00000000       0xdc
+ .comment       0x00000000       0x6e ./example/src/cdc_desc.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./example/src/cdc_main.o
+ .comment       0x0000006e       0x6f ./example/src/cdc_vcom.o
+ .comment       0x0000006e       0x6f ./example/src/cr_startup_lpc43xx.o
+ .comment       0x0000006e       0x6f ./example/src/sysinit.o
+ .comment       0x0000006e       0x6f C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .comment       0x0000006e       0x6f C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .comment       0x0000006e       0x6f C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .comment       0x0000006e       0x6f C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .comment       0x0000006e       0x6e c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(_cr__main.o)
+                                 0x6f (size before relaxing)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memcpy.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memset.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(setvbuf.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_deferredlazyseek.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_fdopen.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_fflush.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_writebuf.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fclose.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fflush.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fseek.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(ftell.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(remove.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(strlen.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__init_alloc.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_sbrk.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_do_fflush.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(errno.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_check_heap.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_appexit.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_close.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_flen.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_istty.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_remove.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_seek.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_tmpnam.o)
+ .comment       0x000000dc       0x6f c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_write.o)
+
+.ARM.attributes
+                0x00000000       0x35
+ .ARM.attributes
+                0x00000000       0x37 ./example/src/cdc_desc.o
+ .ARM.attributes
+                0x00000037       0x37 ./example/src/cdc_main.o
+ .ARM.attributes
+                0x0000006e       0x37 ./example/src/cdc_vcom.o
+ .ARM.attributes
+                0x000000a5       0x37 ./example/src/cr_startup_lpc43xx.o
+ .ARM.attributes
+                0x000000dc       0x37 ./example/src/sysinit.o
+ .ARM.attributes
+                0x00000113       0x37 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .ARM.attributes
+                0x0000014a       0x37 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .ARM.attributes
+                0x00000181       0x37 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .ARM.attributes
+                0x000001b8       0x37 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .ARM.attributes
+                0x000001ef       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(_cr__main.o)
+ .ARM.attributes
+                0x00000226       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x0000025d       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(memset.o)
+ .ARM.attributes
+                0x00000294       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(initio.o)
+ .ARM.attributes
+                0x000002cb       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(setvbuf.o)
+ .ARM.attributes
+                0x00000302       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(stdio.o)
+ .ARM.attributes
+                0x00000339       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_deferredlazyseek.o)
+ .ARM.attributes
+                0x00000370       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_fdopen.o)
+ .ARM.attributes
+                0x000003a7       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_fflush.o)
+ .ARM.attributes
+                0x000003de       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_writebuf.o)
+ .ARM.attributes
+                0x00000415       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(alloc.o)
+ .ARM.attributes
+                0x0000044c       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fclose.o)
+ .ARM.attributes
+                0x00000483       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fflush.o)
+ .ARM.attributes
+                0x000004ba       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(fseek.o)
+ .ARM.attributes
+                0x000004f1       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(ftell.o)
+ .ARM.attributes
+                0x00000528       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(remove.o)
+ .ARM.attributes
+                0x0000055f       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(strlen.o)
+ .ARM.attributes
+                0x00000596       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(__init_alloc.o)
+ .ARM.attributes
+                0x000005cd       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_sbrk.o)
+ .ARM.attributes
+                0x00000604       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_do_fflush.o)
+ .ARM.attributes
+                0x0000063b       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(errno.o)
+ .ARM.attributes
+                0x00000672       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_c.a(_cr_check_heap.o)
+ .ARM.attributes
+                0x000006a9       0x25 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp\libcr_eabihelpers.a(memcpy.o)
+ .ARM.attributes
+                0x000006ce       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_appexit.o)
+ .ARM.attributes
+                0x00000705       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_close.o)
+ .ARM.attributes
+                0x0000073c       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_flen.o)
+ .ARM.attributes
+                0x00000773       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_istty.o)
+ .ARM.attributes
+                0x000007aa       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_remove.o)
+ .ARM.attributes
+                0x000007e1       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_seek.o)
+ .ARM.attributes
+                0x00000818       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_tmpnam.o)
+ .ARM.attributes
+                0x0000084f       0x37 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/softfp\libcr_nohost.a(__sys_write.o)
+
+.debug_ranges   0x00000000      0x2d8
+ .debug_ranges  0x00000000       0x38 ./example/src/cdc_main.o
+ .debug_ranges  0x00000038       0x60 ./example/src/cdc_vcom.o
+ .debug_ranges  0x00000098       0x70 ./example/src/cr_startup_lpc43xx.o
+ .debug_ranges  0x00000108       0x10 ./example/src/sysinit.o
+ .debug_ranges  0x00000118       0x30 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_ranges  0x00000148      0x140 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_ranges  0x00000288       0x10 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_ranges  0x00000298       0x40 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+
+.debug_frame    0x00000000      0xb84
+ .debug_frame   0x00000000       0xe8 ./example/src/cdc_main.o
+ .debug_frame   0x000000e8      0x1c4 ./example/src/cdc_vcom.o
+ .debug_frame   0x000002ac      0x170 ./example/src/cr_startup_lpc43xx.o
+ .debug_frame   0x0000041c       0x34 ./example/src/sysinit.o
+ .debug_frame   0x00000450       0xa0 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_frame   0x000004f0      0x568 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_frame   0x00000a58       0x38 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_frame   0x00000a90       0xf4 C:\Users\a.guerin\Documents\projet\FW scanner\test1\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
