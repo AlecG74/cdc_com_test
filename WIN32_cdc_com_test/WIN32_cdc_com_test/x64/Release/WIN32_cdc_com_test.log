@@ -1,0 +1,15 @@
+﻿  WIN32cdccomtest.cpp
+WIN32cdccomtest.cpp(38): warning C4477: 'scanf_s' : la chaîne de format '%9s' nécessite un argument de type 'unsigned int', mais l'argument variadique 2 est de type '::size_t'
+  WIN32cdccomtest.cpp(38): note: cet argument est utilisé comme taille de mémoire tampon
+WIN32cdccomtest.cpp(187): warning C4474: 'printf' : trop d'arguments passés pour la chaîne de format
+  WIN32cdccomtest.cpp(187): note: les espaces réservés et leurs paramètres attendent des arguments 0 variadiques, mais des arguments 1 ont été fournis
+WIN32cdccomtest.cpp(190): warning C4477: 'scanf_s' : la chaîne de format '%d' nécessite un argument de type 'int *', mais l'argument variadique 1 est de type 'DWORD'
+WIN32cdccomtest.cpp(190): warning C4474: 'scanf_s' : trop d'arguments passés pour la chaîne de format
+  WIN32cdccomtest.cpp(190): note: les espaces réservés et leurs paramètres attendent des arguments 1 variadiques, mais des arguments 2 ont été fournis
+  Génération de code en cours
+  1 of 188 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  WIN32_cdc_com_test.vcxproj -> C:\Users\a.guerin\Documents\projet\Scanner VCOM Tests\win32_cdc_com_test\x64\Release\WIN32_cdc_com_test.exe
+  WIN32_cdc_com_test.vcxproj -> C:\Users\a.guerin\Documents\projet\Scanner VCOM Tests\win32_cdc_com_test\x64\Release\WIN32_cdc_com_test.pdb (Full PDB)
